@@ -1,0 +1,28 @@
+先打包好依赖：
+1：pnmp install
+2：npm run build
+
+添加词库：
+1:进入packages/pinyin/data/soruce目录，构建好自定义词库custom_pinyin.dict.yaml
+2:packages\pinyin\src\rime.ts 文件中添加custom_pinyin.dict.yaml
+/** 默认源词库文件名列表（均在 source/ 目录下）。 */
+const DEFAULT_SOURCE_FILES = [
+  'default.yaml',
+  'luna_pinyin.schema.yaml',
+  'luna_pinyin.dict.yaml',
+  'custom_pinyin.dict.yaml',
+  'symbols.yaml',
+  'essay.txt',
+] as const
+
+3：在luna_pinyin.dict.yaml中引入
+import_tables:
+  - custom_pinyin     # 引入自定义术语词库
+
+
+重新编译，其他不需要重新编译
+1：进入zh-keyboard\packages\pinyin>  npm run build
+2: 进入zh-keyboard\packages\react>   npm run dev 进行验证
+3：打开http://localhost:5175/，需要删除IndexedDB下的数据库，重新刷新获取打包后的新词库在测试
+
+

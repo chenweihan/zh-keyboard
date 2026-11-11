@@ -26,6 +26,8 @@ name: luna_pinyin
 version: "0.12.20120711"
 sort: by_weight
 use_preset_vocabulary: true
+import_tables:
+  - custom_pinyin     # 引入自定义术语词库
 ...
 
 ⿔	gui
@@ -26198,3 +26200,5 @@ use_preset_vocabulary: true
 𪑛	mei
 𪘁	ta
 昇  sheng
+阿芬太尼	a fen tai ni	19999
+阿醋美沙朵	a cu mei sha duo	19999

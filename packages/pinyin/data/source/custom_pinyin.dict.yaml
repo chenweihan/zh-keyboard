@@ -1,0 +1,1921 @@
+# 自定义拼音词典
+# 格式：汉字 拼音 频率
+# 频率：1000-1000000，数字越大，频率越高
+
+---
+name: custom_pinyin
+version: "0.1"
+sort: by_weight
+...
+
+阿醋美沙朵	a cu mei sha duo	19999
+阿法甲基芬太尼	a fa jia ji fen tai ni	19999
+阿法甲基硫代芬太尼	a fa jia ji liu dai fen tai ni	19999
+阿法罗定	a fa luo ding	19999
+阿法美罗定	a fa mei luo ding	19999
+阿法美沙朵	a fa mei sha duo	19999
+阿芬太尼	a fen tai ni	19999
+阿桔片	a ju pian	19999
+阿桔片	a jie pian	19999
+阿拉明	a la ming	19999
+阿尼利定	a ni li ding	19999
+阿片	a pian	19999
+阿片类	a pian lei	19999
+阿片类镇痛药	a pian lei zhen tong yao	19999
+阿片受体	a pian shou ti	19999
+阿普林定	a pu lin ding	19999
+阿普洛尔	a pu luo er	19999
+阿曲库铵	a qu ku an	19999
+阿屈可林	a qu ke lin	19999
+阿司匹林	a si pi lin	19999
+阿司匹林精氨酸盐	a si pi lin jing an suan yan	19999
+阿司匹林赖氨酸盐	a si pi lin lai an suan yan	19999
+阿替洛尔	a ti luo er	19999
+阿托品	a tuo pin	19999
+阿托品类	a tuo pin lei	19999
+埃托啡	ai tuo fei	19999
+艾司洛尔	ai si luo er	19999
+艾司唑仑	ai si zuo lun	19999
+爱可松	ai ke song	19999
+鞍背	an bei	19999
+鞍结节	an jie jie	19999
+安定	an ding	19999
+安定药	an ding yao	19999
+安氟醚	an fu mi	19999
+安全阀	an quan fa	19999
+安易醒	an yi xing	19999
+胺碘酮	an dian tong	19999
+奥施	ao shi	19999
+奥施康定	ao shi kang ding	19999
+奥湿克	ao shi ke	19999
+巴比妥类	ba bi tuo lei	19999
+靶控输注	ba kong shu zhu	19999
+白膜	bai mo	19999
+白质	bai zhi	19999
+板障	ban zhang	19999
+板障管	ban zhang guan	19999
+板障静脉	ban zhang jing mai	19999
+半开放式麻醉装置	ban kai fang shi ma zui zhuang zhi	19999
+半身麻醉	ban shen ma zui	19999
+半月板弹响试验	ban yue ban tan xiang shi yan	19999
+半月板弹响试验	ban yue ban dan xiang shi yan	19999
+半月神经节阻滞	ban yue shen jing jie zu zhi	19999
+半月线	ban yue xian	19999
+膀胱	pang guang	19999
+保护帽	bao hu mao	19999
+报警开关	bao jing kai guan	19999
+背侧丘脑	bei ce qiu nao	19999
+背阔肌	bei kuo ji	19999
+贝齐米特	bei qi mi te	19999
+钡石灰	bei shi hui	19999
+倍醋美沙朵	bei cu mei sha duo	19999
+倍他罗定	bei ta luo ding	19999
+倍他美罗定	bei ta mei luo ding	19999
+倍他美沙朵	bei ta mei sha duo	19999
+倍他羟基芬太尼	bei ta qiang ji fen tai ni	19999
+倍他羟基三甲基芬太尼	bei ta qiang ji san jia ji fen tai ni	19999
+苯巴比妥钠	ben ba bi tuo na	19999
+苯并吡喃	ben bing bi nan	19999
+苯并噻二嗪类	ben bing sai er qin lei	19999
+苯二氮类	ben er dan lei	19999
+苯二氮卓类	ben er dan zhuo lei	19999
+苯二氮卓受体	ben er dan zhuo shou ti	19999
+苯环己哌啶	ben huan ji pai ding	19999
+苯基哌啶类麻醉性镇痛药	ben ji pai ding lei ma zui xing zhen tong yao	19999
+苯吗庚酮	ben ma geng tong	19999
+苯佐卡因	ben zuo ka yin	19999
+苯哌利定	ben pai li ding	19999
+本可松	ben ke song	19999
+泵体系统	beng ti xi tong	19999
+泵吸效应	beng xi xiao ying	19999
+鼻睫神经	bi jie shen jing	19999
+鼻旁窦	bi pang dou	19999
+鼻前庭	bi qian ting	19999
+鼻腔	bi qiang	19999
+鼻区	bi qu	19999
+鼻外侧动脉	bi wai ce dong mai	19999
+鼻咽	bi yan	19999
+鼻咽通气道	bi yan tong qi dao	19999
+鼻咽通气管	bi yan tong qi guan	19999
+鼻粘膜	bi nian mo	19999
+鼻罩	bi zhao	19999
+鼻中隔	bi zhong ge	19999
+鼻中隔偏曲	bi zhong ge pian qu	19999
+比色高温计	bi se gao wen ji	19999
+比索洛尔	bi suo luo er	19999
+闭孔	bi kong	19999
+闭孔神经	bi kong shen jing	19999
+闭孔神经皮支	bi kong shen jing pi zhi	19999
+闭孔神经阻滞定位	bi kong shen jing zu zhi ding wei	19999
+闭膜管	bi mo guan	19999
+壁腹膜	bi fu mo	19999
+壁胸膜	bi xiong mo	19999
+臂部	bi bu	19999
+臂丛	bi cong	19999
+臂丛锁骨上部	bi cong suo gu shang bu	19999
+臂丛锁骨下部	bi cong suo gu xia bu	19999
+臂后皮神经	bi hou pi shen jing	19999
+臂内侧皮神经	bi nei ce pi shen jing	19999
+臂外侧上皮神经	bi wai ce shang pi shen jing	19999
+臂外侧下皮神经	bi wai ce xia pi shen jing	19999
+便携式脑电监测仪	bian xie shi nao dian jian ce yi	19999
+变温水箱	bian wen shui xiang	19999
+表面麻醉	biao mian ma zui	19999
+表情肌	biao qing ji	19999
+丙胺卡因	bing an ka yin	19999
+丙泊酚	bing bo fen	19999
+丙三基三硝酸酯	bing san ji san xiao suan zhi	19999
+丙吡兰	bing bi lan	19999
+丙吡兰	bing pi lan	19999
+丙哌利定	bing pai li ding	19999
+丙泮尼地	bing pan ni di	19999
+丙泮尼地	bing pan ni de	19999
+病人系统	bing ren xi tong	19999
+病人自控镇痛	bing ren zi kong zhen tong	19999
+玻璃温度计	bo li wen du ji	19999
+波顿管压力表	bo dun guan ya li biao	19999
+波纹管	bo wen guan	19999
+波纹管压力表	bo wen guan ya li biao	19999
+波吲洛尔	bo yin luo er	19999
+布比卡因	bu bi ka yin	19999
+布桂嗪	bu gui qin	19999
+布洛芬	bu luo fen	19999
+布诺啡	bu nuo fei	19999
+布托菲诺	bu tuo fei nuo	19999
+布托啡诺	bu tuo fei nuo	19999
+彩色多普勒超声心动图	cai se duo pu le chao sheng xin dong tu	19999
+参比电极	can bi dian ji	19999
+残气排除系统	can qi pai chu xi tong	19999
+侧方挤压试验	ce fang ji ya shi yan	19999
+侧脑室	ce nao shi	19999
+插管面罩	cha guan mian zhao	19999
+插管钳	cha guan qian	19999
+长管驱动回路	chang guan qu dong hui lu	19999
+长托宁	chang tuo ning	19999
+肠系膜上丛	chang xi mo shang cong	19999
+超声波雾化器	chao sheng bo wu hua qi	19999
+超声换能器	chao sheng huan neng qi	19999
+超声心动图	chao sheng xin dong tu	19999
+潮气量	chao qi liang	19999
+撤药综合征	che yao zong he zheng	19999
+成瘾性镇痛药	cheng yin xing zhen tong yao	19999
+耻骨弓	chi gu gong	19999
+耻骨联合	chi gu lian he	19999
+耻股结节	chi gu jie jie	19999
+齿突尖韧带	chi tu jian ren dai	19999
+齿状韧带	chi zhuang ren dai	19999
+尺神经	chi shen jing	19999
+尺神经背支	chi shen jing bei zhi	19999
+尺神经浅支	chi shen jing qian zhi	19999
+尺神经深支	chi shen jing shen zhi	19999
+尺神经腕部阻滞	chi shen jing wan bu zu zhi	19999
+尺神经掌支	chi shen jing zhang zhi	19999
+尺神经肘部阻滞	chi shen jing zhou bu zu zhi	19999
+尺神经阻滞	chi shen jing zu zhi	19999
+尺神经肱部阻滞	chi shen jing gong bu zu zhi	19999
+抽屉试验	chou ti shi yan	19999
+除颤器	chu chan qi	19999
+储气囊	chu qi nang	19999
+储气筒	chu qi tong	19999
+储血器	chu xue qi	19999
+传导麻醉	chuan dao ma zui	19999
+串联型流量计	chuan lian xing liu liang ji	19999
+吹模杯	chui mo bei	19999
+吹模杯	chui mu bei	19999
+垂体	chui ti	19999
+垂体窝	chui ti wo	19999
+醋丁洛尔	cu ding luo er	19999
+醋丁络尔	cu ding luo er	19999
+醋美沙朵	cu mei sha duo	19999
+醋氢可待因	cu qing ke dai yin	19999
+醋氢可酮	cu qing ke tong	19999
+醋托啡	cu tuo fei	19999
+催眠药	cui mian yao	19999
+催醒安	cui xing an	19999
+催醒宁	cui xing ning	19999
+催醒药	cui xing yao	19999
+大麻	da ma	19999
+大麻树脂	da ma shu zhi	19999
+大脑	da nao	19999
+大脑大静脉	da nao da jing mai	19999
+大脑动脉环	da nao dong mai huan	19999
+大脑后动脉	da nao hou dong mai	19999
+大脑镰	da nao lian	19999
+大脑前动脉	da nao qian dong mai	19999
+大脑中动脉	da nao zhong dong mai	19999
+大前根动脉	da qian gen dong mai	19999
+大网膜	da wang mo	19999
+大隐静脉	da yin jing mai	19999
+代谢性碱中毒	dai xie xing jian zhong du	19999
+代谢性酸中毒	dai xie xing suan zhong du	19999
+袋箱驱动气路	dai xiang qu dong qi lu	19999
+单纯扩散	dan chun kuo san	19999
+单管双锥度流量计	dan guan shuang zhui du liu liang ji	19999
+单腔导气管	dan qiang dao qi guan	19999
+单通道心电图	dan tong dao xin dian tu	19999
+单向活瓣	dan xiang huo ban	19999
+胆囊	dan nang	19999
+氮氧联动安全装置	dan yang lian dong an quan zhuang zhi	19999
+弹性圆锥	tan xing yuan zhui	19999
+岛叶	dao ye	19999
+导静脉	dao jing mai	19999
+导联	dao lian	19999
+导向气管导管	dao xiang qi guan dao guan	19999
+德韦尔试验	de wei er shi yan	19999
+得宝松	de bao song	19999
+得宝松	dei bao song	19999
+低分子右旋糖苷	di fen zi you xuan tang gan	19999
+低流量的麻醉混合气体	di liu liang de ma zui hun he qi ti	19999
+低渗血症	di shen xue zheng	19999
+低渗血症	di shen xie zheng	19999
+低温麻醉	di wen ma zui	19999
+低压报警	di ya bao jing	19999
+低压高容量套囊	di ya gao rong liang tao nang	19999
+低压系统	di ya xi tong	19999
+低氧保护装置	di yang bao hu zhuang zhi	19999
+低氧报警及低氧氧化亚氮自动保护装置	di yang bao jing ji di yang yang hua ya dan zi dong bao hu zhuang zhi	19999
+低氧血症	di yang xue zheng	19999
+低张性缺氧	di zhang xing que yang	19999
+底丘脑	di qiu nao	19999
+地恩丙胺	di en bing an	19999
+地恩丙胺	de en bing an	19999
+地芬诺辛	di fen nuo xin	19999
+地芬诺辛	de fen nuo xin	19999
+地芬诺酯	di fen nuo zhi	19999
+地芬诺酯	de fen nuo zhi	19999
+地氟醚	di fu mi	19999
+地氟醚	de fu mi	19999
+地氟烷	di fu wan	19999
+地氟烷	de fu wan	19999
+地高辛	di gao xin	19999
+地卡因	di ka yin	19999
+地卡因	de ka yin	19999
+地美庚醇	di mei geng chun	19999
+地美庚醇	de mei geng chun	19999
+地美露	di mei lu	19999
+地美露	di mei lou	19999
+地美露	de mei lu	19999
+地美沙朵	di mei sha duo	19999
+地美沙朵	de mei sha duo	19999
+地匹哌酮	di pi pai tong	19999
+地匹哌酮	de pi pai tong	19999
+地塞米松	di sai mi song	19999
+地索吗啡	di suo ma fei	19999
+地索吗啡	de suo ma fei	19999
+地西泮	di xi pan	19999
+蒂巴因	di ba yin	19999
+第二气体效应	di er qi ti xiao ying	19999
+第七颈椎棘突	di qi jing zhui ji tu	19999
+第三间隙	di san jian xi	19999
+第三脑室	di san nao shi	19999
+第四脑室	di si nao shi	19999
+电磁血流计	dian ci xue liu ji	19999
+电刺激器	dian ci ji qi	19999
+电刺装置	dian ci zhuang zhi	19999
+电动风箱麻醉通气机	dian dong feng xiang ma zui tong qi ji	19999
+电控蒸发器	dian kong zheng fa qi	19999
+电针麻醉	dian zhen ma zui	19999
+电子镇痛泵	dian zi zhen tong beng	19999
+碟筛隐窝	die shai yin wo	19999
+碟窦	die dou	19999
+蝶鞍	die an	19999
+丁丙诺啡	ding bing nuo fei	19999
+丁卡因	ding ka yin	19999
+丁哌卡因	ding pai ka yin	19999
+丁酰苯类	ding xian ben lei	19999
+顶导静脉	ding dao jing mai	19999
+顶叶	ding ye	19999
+东莨菪碱	dong lang dang jian	19999
+动静脉血氧分压差	dong jing mai xue yang fen ya cha	19999
+动静脉血氧分压差	dong jing mai xue yang fen ya chai	19999
+动力系统	dong li xi tong	19999
+动脉	dong mai	19999
+动脉冠	dong mai guan	19999
+动脉血二氧化碳分压	dong mai xue er yang hua tan fen ya	19999
+动脉血氧饱和度	dong mai xue yang bao he du	19999
+动眼神经	dong yan shen jing	19999
+毒毛花苷	du mao hua gan	19999
+毒蕈碱	du xun jian	19999
+度冷丁	du leng ding	19999
+端脑	duan nao	19999
+短暂性记忆缺失	duan zan xing ji yi que shi	19999
+对氟芬太尼	dui fu fen tai ni	19999
+多巴胺	duo ba an	19999
+多巴胺受体	duo ba an shou ti	19999
+多巴酚丁胺	duo ba fen ding an	19999
+多普勒超声心动图	duo pu le chao sheng xin dong tu	19999
+多瑞吉	duo rui ji	19999
+额板障动脉	e ban zhang dong mai	19999
+额板障静脉	e ban zhang jing mai	19999
+额导静脉	e dao jing mai	19999
+额顶枕区	e ding zhen qu	19999
+额叶	e ye	19999
+额窦	e dou	19999
+恩氟烷	en fu wan	19999
+恩卡尼	en ka ni	19999
+耳大神经	er da shen jing	19999
+耳后动脉	er hou dong mai	19999
+耳后静脉	er hou jing mai	19999
+耳屏	er ping	19999
+耳区	er qu	19999
+耳颞神经	er nie shen jing	19999
+二氮嗪	er dan qin	19999
+二甲噻丁	er jia sai ding	19999
+二氢埃托菲	er qing ai tuo fei	19999
+二氢埃托啡	er qing ai tuo fei	19999
+二氢可待因	er qing ke dai yin	19999
+二氢吡啶类	er qing bi ding lei	19999
+二维超声心动图仪	er wei chao sheng xin dong tu yi	19999
+二氧化碳吸收回路	er yang hua tan xi shou hui lu	19999
+二氧化碳吸收器	er yang hua tan xi shou qi	19999
+二氧化碳总量	er yang hua tan zong liang	19999
+二乙噻丁	er yi sai ding	19999
+二异丙酚	er yi bing fen	19999
+阀杆	fa gan	19999
+阀门	fa men	19999
+阀座	fa zuo	19999
+凡是反馈信息和控制信息的作用性质相反的反馈称为负反馈	fan shi fan kui xin xi he kong zhi xin xi de zuo yong xing zhi xiang fan de fan kui cheng wei fu fan kui	19999
+反比通气	fan bi tong qi	19999
+反接	fan jie	19999
+反馈	fan kui	19999
+反射	fan she	19999
+反应	fan ying	19999
+反转韧带	fan zhuan ren dai	19999
+房室结	fang shi jie	19999
+房室束	fang shi shu	19999
+放漏套囊	fang lou tao nang	19999
+非儿茶酚胺	fei er cha fen an	19999
+非麻醉性镇痛药	fei ma zui xing zhen tong yao	19999
+非那丙胺	fei na bing an	19999
+非那佐辛	fei na zuo xin	19999
+非诺啡烷	fei nuo fei wan	19999
+非甾体抗炎药	fei zai ti kang yan yao	19999
+肺动脉	fei dong mai	19999
+肺动脉瓣	fei dong mai ban	19999
+肺根	fei gen	19999
+肺呼吸	fei hu xi	19999
+肺活量计	fei huo liang ji	19999
+肺静脉	fei jing mai	19999
+肺门	fei men	19999
+肺泡气动脉血氧分压差	fei pao qi dong mai xue yang fen ya cha	19999
+肺泡气动脉血氧分压差	fei pao qi dong mai xue yang fen ya chai	19999
+肺通气机	fei tong qi ji	19999
+肺胸膜	fei xiong mo	19999
+肺循环	fei xun huan	19999
+芬必得	fen bi de	19999
+芬太尼	fen tai ni	19999
+芬太尼透皮贴剂	fen tai ni tou pi tie ji	19999
+芬太尼衍生物	fen tai ni yan sheng wu	19999
+酚妥拉明	fen tuo la ming	19999
+酚苄明	fen bian ming	19999
+吩噻嗪类	fen sai qin lei	19999
+分流比	fen liu bi	19999
+分流率	fen liu lv	19999
+分流率	fen liu shuai	19999
+分娩镇痛	fen mian zhen tong	19999
+分配系数	fen pei xi shu	19999
+分钟指令通气	fen zhong zhi ling tong qi	19999
+奋乃静	fen nai jing	19999
+氟安定	fu an ding	19999
+氟化仑麻醉药	fu hua lun ma zui yao	19999
+氟卡尼	fu ka ni	19999
+氟马西尼	fu ma xi ni	19999
+氟烷	fu wan	19999
+氟西泮	fu xi pan	19999
+氟吡汀	fu bi ting	19999
+氟吡汀	fu pi ting	19999
+氟哌啶	fu pai ding	19999
+浮杆式流量计	fu gan shi liu liang ji	19999
+福尔可定	fu er ke ding	19999
+辅助呼吸和控制呼吸	fu zhu hu xi he kong zhi hu xi	19999
+副脾	fu pi	19999
+副神经	fu shen jing	19999
+复方樟脑酊	fu fang zhang nao ding	19999
+复合麻醉	fu he ma zui	19999
+复苏器	fu su qi	19999
+腹白线	fu bai xian	19999
+腹壁	fu bi	19999
+腹壁浅动脉	fu bi qian dong mai	19999
+腹壁浅静脉	fu bi qian jing mai	19999
+腹壁上动脉	fu bi shang dong mai	19999
+腹壁下动脉	fu bi xia dong mai	19999
+腹部	fu bu	19999
+腹股沟管	fu gu gou guan	19999
+腹股沟管深环	fu gu gou guan shen huan	19999
+腹股沟镰	fu gu gou lian	19999
+腹股沟韧带	fu gu gou ren dai	19999
+腹股沟三角	fu gu gou san jiao	19999
+腹股沟斜疝	fu gu gou xie shan	19999
+腹股沟疝	fu gu gou shan	19999
+腹横肌	fu heng ji	19999
+腹横筋膜	fu heng jin mo	19999
+腹膜	fu mo	19999
+腹膜腔	fu mo qiang	19999
+腹膜下筋膜	fu mo xia jin mo	19999
+腹内斜肌	fu nei xie ji	19999
+腹腔	fu qiang	19999
+腹腔神经	fu qiang shen jing	19999
+腹腔神经节	fu qiang shen jing jie	19999
+腹腔脏器	fu qiang zang qi	19999
+腹上区	fu shang qu	19999
+腹外斜肌	fu wai xie ji	19999
+腹下丛	fu xia cong	19999
+腹下区	fu xia qu	19999
+腹直肌	fu zhi ji	19999
+腹直肌鞘	fu zhi ji qiao	19999
+腹直肌鞘	fu zhi ji shao	19999
+腹主动脉	fu zhu dong mai	19999
+腹主动脉丛	fu zhu dong mai cong	19999
+负反馈	fu fan kui	19999
+负压泄漏试验	fu ya xie lou shi yan	19999
+钙拮抗剂	gai jie kang ji	19999
+肝丛	gan cong	19999
+肝蒂	gan di	19999
+肝裸区	gan luo qu	19999
+肝门	gan men	19999
+肝肾隐窝	gan shen yin wo	19999
+肝外胆道	gan wai dan dao	19999
+肝脏	gan zang	19999
+肛管	gang guan	19999
+肛区	gang qu	19999
+肛神经	gang shen jing	19999
+高度选择性	gao du xuan ze xing	19999
+高频电刀	gao pin dian dao	19999
+高频通气	gao pin tong qi	19999
+高渗血症	gao shen xue zheng	19999
+高渗血症	gao shen xie zheng	19999
+高乌甲素	gao wu jia su	19999
+高效能全麻药	gao xiao neng quan ma yao	19999
+高压低容量套囊	gao ya di rong liang tao nang	19999
+高压系统	gao ya xi tong	19999
+格隆溴铵	ge long xiu an	19999
+格鲁米特	ge lu mi te	19999
+隔离毯	ge li tan	19999
+根动脉	gen dong mai	19999
+根蛛网	gen zhu wang	19999
+工字通气道	gong zi tong qi dao	19999
+供气系统	gong qi xi tong	19999
+供氧和氧化亚氮装置	gong yang he yang hua ya dan zhuang zhi	19999
+弓间韧带	gong jian ren dai	19999
+共同通路	gong tong tong lu	19999
+钩椎关节	gou zhui guan jie	19999
+姑息治疗	gu xi zhi liao	19999
+鼓泡式氧合器	gu pao shi yang he qi	19999
+古柯糊	gu ke hu	19999
+古柯叶	gu ke ye	19999
+骨筋膜鞘	gu jin mo qiao	19999
+骨筋膜鞘	gu jin mo shao	19999
+骨膜	gu mo	19999
+骨纤维管	gu xian wei guan	19999
+骨纤维孔	gu xian wei kong	19999
+骨骼肌松弛	gu ge ji song chi	19999
+骨骼肌松弛药	gu ge ji song chi yao	19999
+股部	gu bu	19999
+股动脉	gu dong mai	19999
+股骨头	gu gu tou	19999
+股管	gu guan	19999
+股后皮神经	gu hou pi shen jing	19999
+股环	gu huan	19999
+股内侧皮神经	gu nei ce pi shen jing	19999
+股鞘	gu qiao	19999
+股鞘	gu shao	19999
+股三角	gu san jiao	19999
+股神经	gu shen jing	19999
+股神经前皮支	gu shen jing qian pi zhi	19999
+股神经阻滞定位	gu shen jing zu zhi ding wei	19999
+股外侧皮神经	gu wai ce pi shen jing	19999
+股中间皮神经	gu zhong jian pi shen jing	19999
+固有鼻腔	gu you bi qiang	19999
+固有颈部	gu you jing bu	19999
+固有口腔	gu you kou qiang	19999
+关节突关节	guan jie tu guan jie	19999
+冠状动脉	guan zhuang dong mai	19999
+冠状韧带	guan zhuang ren dai	19999
+冠状窦	guan zhuang dou	19999
+管芯	guan xin	19999
+管性通气道	guan xing tong qi dao	19999
+光导喉镜	guang dao hou jing	19999
+光导纤维支气管镜	guang dao xian wei zhi qi guan jing	19999
+光学高温计	guang xue gao wen ji	19999
+贵要静脉	gui yao jing mai	19999
+滚柱式血泵	gun zhu shi xue beng	19999
+滚柱式血泵	gun zhu shi xie beng	19999
+过充	guo chong	19999
+海洛因	hai luo yin	19999
+海绵窦	hai mian dou	19999
+海豚素	hai tun su	19999
+核心温度	he xin wen du	19999
+合成的儿茶酚胺	he cheng de er cha fen an	19999
+贺斯	he si	19999
+贺斯仿制品	he si fang zhi pin	19999
+横突间韧带	heng tu jian ren dai	19999
+横突孔	heng tu kong	19999
+横窦	heng dou	19999
+红外耳鼓膜测温计	hong wai er gu mo ce wen ji	19999
+红外辐射加温仪	hong wai fu she jia wen yi	19999
+红外辐射体温测量仪	hong wai fu she ti wen ce liang yi	19999
+红外光电辐射法	hong wai guang dian fu she fa	19999
+红外光电温度计	hong wai guang dian wen du ji	19999
+红外热成像仪	hong wai re cheng xiang yi	19999
+喉返神经	hou fan shen jing	19999
+喉返神经气管支	hou fan shen jing qi guan zhi	19999
+喉结	hou jie	19999
+喉镜	hou jing	19999
+喉镜片	hou jing pian	19999
+喉口	hou kou	19999
+喉前庭	hou qian ting	19999
+喉腔	hou qiang	19999
+喉上动脉	hou shang dong mai	19999
+喉上神经	hou shang shen jing	19999
+喉室	hou shi	19999
+喉下动脉	hou xia dong mai	19999
+喉咽	hou yan	19999
+喉咽管	hou yan guan	19999
+喉罩	hou zhao	19999
+喉罩通气管	hou zhao tong qi guan	19999
+喉中间腔	hou zhong jian qiang	19999
+喉轴线	hou zhou xian	19999
+后丘脑	hou qiu nao	19999
+后正中线	hou zheng zhong xian	19999
+后纵韧带	hou zong ren dai	19999
+后囟	hou xin	19999
+呼气阀	hu qi fa	19999
+呼气管道	hu qi guan dao	19999
+呼气活瓣	hu qi huo ban	19999
+呼气流量	hu qi liu liang	19999
+呼气末	hu qi mo	19999
+呼气末二氧化碳分压	hu qi mo er yang hua tan fen ya	19999
+呼气末二氧化碳监测	hu qi mo er yang hua tan jian ce	19999
+呼气末二氧化碳浓度	hu qi mo er yang hua tan nong du	19999
+呼气末正压	hu qi mo zheng ya	19999
+呼气早期	hu qi zao qi	19999
+呼吸功能监测仪	hu xi gong neng jian ce yi	19999
+呼吸管路	hu xi guan lu	19999
+呼吸机	hu xi ji	19999
+呼吸气路	hu xi qi lu	19999
+呼吸性碱中毒	hu xi xing jian zhong du	19999
+呼吸性酸中毒	hu xi xing suan zhong du	19999
+呼吸指数	hu xi zhi shu	19999
+呼吸治疗通气机	hu xi zhi liao tong qi ji	19999
+华法林	hua fa lin	19999
+滑车上动脉	hua che shang dong mai	19999
+滑车上静脉	hua che shang jing mai	19999
+滑车上神经	hua che shang shen jing	19999
+滑车上神经节阻滞	hua che shang shen jing jie zu zhi	19999
+滑车神经	hua che shen jing	19999
+滑球式流量计	hua qiu shi liu liang ji	19999
+化学测温法	hua xue ce wen fa	19999
+怀特双腔管	huai te shuang qiang guan	19999
+环己巴比妥	huan ji ba bi tuo	19999
+环甲动脉	huan jia dong mai	19999
+环状软骨	huan zhuang ruan gu	19999
+黄韧带	huang ren dai	19999
+灰质	hui zhi	19999
+挥发性麻醉药	hui fa xing ma zui yao	19999
+回路内蒸发器	hui lu nei zheng fa qi	19999
+回路外蒸发器	hui lu wai zheng fa qi	19999
+回路系统试验	hui lu xi tong shi yan	19999
+回输袋	hui shu dai	19999
+回旋研磨试验	hui xuan yan mo shi yan	19999
+会厌软骨	hui yan ruan gu	19999
+会阴部	hui yin bu	19999
+会阴神经	hui yin shen jing	19999
+会阴体	hui yin ti	19999
+会阴中心腱	hui yin zhong xin jian	19999
+混合静脉血氧饱和度	hun he jing mai xue yang bao he du	19999
+混合静脉血氧分压	hun he jing mai xue yang fen ya	19999
+活动堵塞引流管	huo dong du se yin liu guan	19999
+基础麻醉	ji chu ma zui	19999
+基础温度	ji chu wen du	19999
+基础医学	ji chu yi xue	19999
+基底动脉	ji di dong mai	19999
+肌间隔	ji jian ge	19999
+肌皮神经	ji pi shen jing	19999
+肌鞘	ji qiao	19999
+肌鞘	ji shao	19999
+肌肉机械收缩力型肌松自动监测仪	ji rou ji xie shou suo li xing ji song zi dong jian ce yi	19999
+肌松监测仪	ji song jian ce yi	19999
+肌松监测仪器	ji song jian ce yi qi	19999
+肌松药	ji song yao	19999
+肌纤维	ji xian wei	19999
+肌组织	ji zu zhi	19999
+棘间韧带	ji jian ren dai	19999
+棘上韧带	ji shang ren dai	19999
+棘突	ji tu	19999
+急救复苏	ji jiu fu su	19999
+急救通气机	ji jiu tong qi ji	19999
+急救医学	ji jiu yi xue	19999
+急性分隔性水肿间隙	ji xing fen ge xing shui zhong jian xi	19999
+脊肋角	ji lei jiao	19999
+脊肋角	ji lei jue	19999
+脊神经	ji shen jing	19999
+脊神经根	ji shen jing gen	19999
+脊神经后支	ji shen jing hou zhi	19999
+脊神经脊膜支	ji shen jing ji mo zhi	19999
+脊神经前支	ji shen jing qian zhi	19999
+脊髓	ji sui	19999
+脊髓动脉	ji sui dong mai	19999
+脊髓后动脉	ji sui hou dong mai	19999
+脊髓前动脉	ji sui qian dong mai	19999
+脊髓圆椎	ji sui yuan zhui	19999
+脊髓圆锥	ji sui yuan zhui	19999
+脊髓中央动脉	ji sui zhong yang dong mai	19999
+脊柱区	ji zhu qu	19999
+加巴喷丁	jia ba pen ding	19999
+加强气管导管	jia qiang qi guan dao guan	19999
+加强医疗病房	jia qiang yi liao bing fang	19999
+加热冲洗液	jia re chong xi ye	19999
+加速度肌送监测仪	jia su du ji song jian ce yi	19999
+加温加湿器	jia wen jia shi qi	19999
+加温毯	jia wen tan	19999
+加温温箱	jia wen wen xiang	19999
+颊淋巴结	jia lin ba jie	19999
+颊区	jia qu	19999
+颊神经	jia shen jing	19999
+甲丙氨酯	jia bing an zhi	19999
+甲地索啡	jia di suo fei	19999
+甲二氢吗啡	jia er qing ma fei	19999
+甲慌酸酚妥拉明	jia huang suan fen tuo la ming	19999
+甲基吗啡	jia ji ma fei	19999
+甲基强的松龙	jia ji qiang di song long	19999
+甲泼尼松龙	jia po ni song long	19999
+甲氧胺	jia yang an	19999
+甲氧氟烷	jia yang fu wan	19999
+甲氧明	jia yang ming	19999
+甲状旁腺	jia zhuang pang xian	19999
+甲状软骨	jia zhuang ruan gu	19999
+甲状舌骨膜	jia zhuang she gu mo	19999
+甲状腺	jia zhuang xian	19999
+甲状腺鞘	jia zhuang xian qiao	19999
+甲状腺鞘	jia zhuang xian shao	19999
+甲状腺悬韧带	jia zhuang xian xuan ren dai	19999
+甲哌卡因	jia pai ka yin	19999
+甲喹酮	jia kui tong	19999
+假被膜	jia bei mo	19999
+尖淋巴结	jian lin ba jie	19999
+间脑	jian nao	19999
+间羟胺	jian qiang an	19999
+肩部	jian bu	19999
+肩峰	jian feng	19999
+肩峰下囊	jian feng xia nang	19999
+肩胛背神经	jian jia bei shen jing	19999
+肩胛冈	jian jia gang	19999
+肩胛骨下角	jian jia gu xia jiao	19999
+肩胛旁三角	jian jia pang san jiao	19999
+肩胛区	jian jia qu	19999
+肩胛上神经阻滞	jian jia shang shen jing zu zhi	19999
+肩胛下角线	jian jia xia jiao xian	19999
+碱石灰	jian shi hui	19999
+减压阀	jian ya fa	19999
+减压器	jian ya qi	19999
+剑突	jian tu	19999
+浆膜心包	jiang mo xin bao	19999
+降温	jiang wen	19999
+胶体渗透压	jiao ti shen tou ya	19999
+交感干	jiao gan gan	19999
+脚间池	jiao jian chi	19999
+结肠	jie chang	19999
+结间束	jie jian shu	19999
+解除精神紧张	jie chu jing shen jin zhang	19999
+解剖刀	jie pou dao	19999
+解剖剪	jie pou jian	19999
+解剖形面罩	jie pou xing mian zhao	19999
+戒断综合征	jie duan zong he zheng	19999
+筋膜间隙肌质	jin mo jian xi ji zhi	19999
+紧闭回路	jin bi hui lu	19999
+浸润麻醉	jin run ma zui	19999
+晶体渗透压	jing ti shen tou ya	19999
+精囊	jing nang	19999
+精神活性药物	jing shen huo xing yao wu	19999
+精神依赖性	jing shen yi lai xing	19999
+精索	jing suo	19999
+精索外筋膜	jing suo wai jin mo	19999
+经皮二氧化碳分压	jing pi er yang hua tan fen ya	19999
+经皮氧分压	jing pi yang fen ya	19999
+经胸超声心动图	jing xiong chao sheng xin dong tu	19999
+颈部	jing bu	19999
+颈丛	jing cong	19999
+颈丛浅支	jing cong qian zhi	19999
+颈丛深支	jing cong shen zhi	19999
+颈动脉小球	jing dong mai xiao qiu	19999
+颈动脉窦	jing dong mai dou	19999
+颈横神经	jing heng shen jing	19999
+颈后	jing hou	19999
+颈交感干	jing jiao gan gan	19999
+颈静脉孔	jing jing mai kong	19999
+颈静脉切迹	jing jing mai qie ji	19999
+颈内动脉	jing nei dong mai	19999
+颈膨大	jing peng da	19999
+颈膨大动脉	jing peng da dong mai	19999
+颈前	jing qian	19999
+颈前淋巴结	jing qian lin ba jie	19999
+颈上神经节	jing shang shen jing jie	19999
+颈神经	jing shen jing	19999
+颈外侧淋巴结	jing wai ce lin ba jie	19999
+颈外侧区	jing wai ce qu	19999
+颈外动脉	jing wai dong mai	19999
+颈下神经节	jing xia shen jing jie	19999
+颈胸神经节	jing xiong shen jing jie	19999
+颈中神经节	jing zhong shen jing jie	19999
+颈袢	jing pan	19999
+颈袢上根	jing pan shang gen	19999
+颈袢下根	jing pan xia gen	19999
+静脉	jing mai	19999
+静脉麻醉	jing mai ma zui	19999
+静吸复合麻醉	jing xi fu he ma zui	19999
+镜柄	jing bing	19999
+局部浸润麻醉	ju bu jin run ma zui	19999
+局部麻醉	ju bu ma zui	19999
+局部麻醉药	ju bu ma zui yao	19999
+卡伦斯双腔管	ka lun si shuang qiang guan	19999
+卡马西平	ka ma xi ping	19999
+卡维洛尔	ka wei luo er	19999
+开放回路	kai fang hui lu	19999
+开口器	kai kou qi	19999
+开口钳	kai kou qian	19999
+凯他敏	kai ta min	19999
+凯托米酮	kai tuo mi tong	19999
+抗焦虑药	kang jiao lv yao	19999
+抗惊厥药	kang jing jue yao	19999
+抗精神药	kang jing shen yao	19999
+抗肾上腺素药	kang shen shang xian su yao	19999
+抗抑郁药	kang yi yu yao	19999
+可待因	ke dai yin	19999
+可多克辛	ke duo ke xin	19999
+可卡因	ke ka yin	19999
+可乐定	ke le ding	19999
+可乐宁	ke le ning	19999
+可兴奋组织	ke xing fen zu zhi	19999
+克罗卡林	ke luo ka lin	19999
+空肠	kong chang	19999
+空气过滤网	kong qi guo lv wang	19999
+空气麻醉机	kong qi ma zui ji	19999
+空气探测器	kong qi tan ce qi	19999
+控制系统	kong zhi xi tong	19999
+控制性降压	kong zhi xing jiang ya	19999
+口腔	kou qiang	19999
+口腔前庭	kou qiang qian ting	19999
+口腔异性气管导管	kou qiang yi xing qi guan dao guan	19999
+口区	kou qu	19999
+口塞	kou sai	19999
+口咽	kou yan	19999
+口咽套囊	kou yan tao nang	19999
+口咽通气道	kou yan tong qi dao	19999
+口咽通气管	kou yan tong qi guan	19999
+口轴线	kou zhou xian	19999
+框上切迹	kuang shang qie ji	19999
+眶区	kuang qu	19999
+眶上动脉	kuang shang dong mai	19999
+眶上静脉	kuang shang jing mai	19999
+眶上神经	kuang shang shen jing	19999
+眶上神经节阻滞	kuang shang shen jing jie zu zhi	19999
+眶下动脉	kuang xia dong mai	19999
+眶下静脉	kuang xia jing mai	19999
+眶下孔	kuang xia kong	19999
+眶下神经	kuang xia shen jing	19999
+眶下神经阻滞	kuang xia shen jing zu zhi	19999
+奎尼丁	kui ni ding	19999
+拉巴乌头碱	la ba wu tou jian	19999
+拉贝洛尔	la bei luo er	19999
+拉莫三嗪	la mo san qin	19999
+赖氨匹林	lai an pi lin	19999
+阑尾系膜	lan wei xi mo	19999
+劳拉西泮	lao la xi pan	19999
+肋弓	lei gong	19999
+肋弓	le gong	19999
+肋脊角	lei ji jiao	19999
+肋脊角	lei ji jue	19999
+肋脊角	le ji jiao	19999
+肋间臂神经	lei jian bi shen jing	19999
+肋间肌	lei jian ji	19999
+肋间神经	lei jian shen jing	19999
+肋间神经前皮支	lei jian shen jing qian pi zhi	19999
+肋间神经外侧皮支	lei jian shen jing wai ce pi zhi	19999
+肋下神经	lei xia shen jing	19999
+肋纵膈隐窝	lei zong ge yin wo	19999
+肋纵膈隐窝	le zong ge yin wo	19999
+肋膈隐窝	lei ge yin wo	19999
+肋膈隐窝	le ge yin wo	19999
+梨状隐窝	li zhuang yin wo	19999
+离心杯	li xin bei	19999
+离心机	li xin ji	19999
+离心机舱	li xin ji cang	19999
+离心式血泵	li xin shi xue beng	19999
+离心式血泵	li xin shi xie beng	19999
+利多	li duo	19999
+利多卡因	li duo ka yin	19999
+利美达松	li mei da song	19999
+镰状韧带	lian zhuang ren dai	19999
+两个夹角	liang ge jia jiao	19999
+两个弯曲	liang ge wan qu	19999
+临床麻醉	lin chuang ma zui	19999
+临床麻醉学	lin chuang ma zui xue	19999
+临床医学	lin chuang yi xue	19999
+淋巴管	lin ba guan	19999
+淋巴结	lin ba jie	19999
+灵敏度	ling min du	19999
+硫代芬太尼	liu dai fen tai ni	19999
+硫代甲酰胺类	liu dai jia xian an lei	19999
+硫氮卓酮	liu dan zhuo tong	19999
+硫喷妥	liu pen tuo	19999
+硫喷妥钠	liu pen tuo na	19999
+硫酸阿托品	liu suan a tuo pin	19999
+硫戊比妥	liu wu bi tuo	19999
+流量传感器	liu liang chuan gan qi	19999
+流量计	liu liang ji	19999
+流量控制阀	liu liang kong zhi fa	19999
+流量指示器	liu liang zhi shi qi	19999
+六甲溴铵	liu jia xiu an	19999
+漏气	lou qi	19999
+颅底	lu di	19999
+颅顶部	lu ding bu	19999
+颅顶骨	lu ding gu	19999
+颅骨缝	lu gu feng	19999
+颅后窝	lu hou wo	19999
+颅前窝	lu qian wo	19999
+颅腔	lu qiang	19999
+颅中窝	lu zhong wo	19999
+氯胺酮	lv an tong	19999
+氯丙嗪	lv bing qin	19999
+氯氮卓	lv dan zhuo	19999
+氯仿	lv fang	19999
+氯芬合剂	lv fen he ji	19999
+氯化琥珀胆碱注射剂	lv hua hu po dan jian zhu she ji	19999
+氯卡安	lv ka an	19999
+氯尼他秦	lv ni ta qin	19999
+氯普鲁卡因	lv pu lu ka yin	19999
+氯压定	lv ya ding	19999
+滤血器	lv xue qi	19999
+滤血器	lv xie qi	19999
+卵巢	luan chao	19999
+螺纹管	luo wen guan	19999
+罗库溴铵	luo ku xiu an	19999
+罗哌	luo pai	19999
+罗哌卡因	luo pai ka yin	19999
+麻沸散	ma fei san	19999
+麻黄碱	ma huang jian	19999
+麻卡因	ma ka yin	19999
+麻醉工作站	ma zui gong zuo zhan	19999
+麻醉功能	ma zui gong neng	19999
+麻醉喉镜	ma zui hou jing	19999
+麻醉护理	ma zui hu li	19999
+麻醉回路	ma zui hui lu	19999
+麻醉机	ma zui ji	19999
+麻醉机气路系统	ma zui ji qi lu xi tong	19999
+麻醉机与密闭式面罩或气管导管连接	ma zui ji yu mi bi shi mian zhao huo qi guan dao guan lian jie	19999
+麻醉剂	ma zui ji	19999
+麻醉解剖学	ma zui jie pou xue	19999
+麻醉解剖学是从麻醉学的角度研究人体局部配布规律及临床应用的一门科学	ma zui jie pou xue shi cong ma zui xue de jiao du yan jiu ren ti ju bu pei bu gui lv ji lin chuang ying yong de yi men ke xue	19999
+麻醉科	ma zui ke	19999
+麻醉门诊	ma zui men zhen	19999
+麻醉设备学	ma zui she bei xue	19999
+麻醉深度	ma zui shen du	19999
+麻醉深度监护仪	ma zui shen du jian hu yi	19999
+麻醉生理学	ma zui sheng li xue	19999
+麻醉师	ma zui shi	19999
+麻醉是指使有机体全部或局部暂失去知觉以便进行外科手术治疗的方法	ma zui shi zhi shi you ji ti quan bu huo ju bu zan shi qu zhi jue yi bian jin xing wai ke shou shu zhi liao de fang fa	19999
+麻醉水平	ma zui shui ping	19999
+麻醉通气机	ma zui tong qi ji	19999
+麻醉性镇痛药	ma zui xing zhen tong yao	19999
+麻醉学	ma zui xue	19999
+麻醉药理学	ma zui yao li xue	19999
+麻醉药品	ma zui yao pin	19999
+麻醉药液蒸发器	ma zui yao ye zheng fa qi	19999
+麻醉医学工程	ma zui yi xue gong cheng	19999
+麻醉诱导	ma zui you dao	19999
+麻醉镇痛泵	ma zui zhen tong beng	19999
+麻醉蒸发器	ma zui zheng fa qi	19999
+马尾	ma wei	19999
+吗苯丁酯	ma ben ding zhi	19999
+吗啡	ma fei	19999
+吗啡阿托品注射液	ma fei a tuo pin zhu she ye	19999
+吗啡甲溴化物及其它五价氮吗啡衍生物	ma fei jia xiu hua wu ji qi ta wu jia dan ma fei yan sheng wu	19999
+吗啡控释片	ma fei kong shi pian	19999
+吗拉胺中间体	ma la an zhong jian ti	19999
+吗哌利定	ma pai li ding	19999
+麦角二乙胺	mai jiao er yi an	19999
+麦克马瑞试验	mai ke ma rui shi yan	19999
+麦罗啡	mai luo fei	19999
+脉搏血氧饱和度	mai bo xue yang bao he du	19999
+脉冲回声成像	mai chong hui sheng cheng xiang	19999
+脉管	mai guan	19999
+脉络从前动脉	mai luo cong qian dong mai	19999
+脉络丛	mai luo cong	19999
+脉络丛后交通动脉	mai luo cong hou jiao tong dong mai	19999
+盲肠	mang chang	19999
+毛果芸香碱	mao guo yun xiang jian	19999
+毛花苷丙	mao hua gan bing	19999
+帽状腱膜	mao zhuang jian mo	19999
+眉弓	mei gong	19999
+美菲康	mei fei kang	19999
+美蓝	mei lan	19999
+美罗昔康	mei luo xi kang	19999
+美散酮	mei san tong	19999
+美沙酮	mei sha tong	19999
+美沙酮中间体	mei sha tong zhong jian ti	19999
+美施康定	mei shi kang ding	19999
+美速克新命	mei su ke xin ming	19999
+美索比妥	mei suo bi tuo	19999
+美他佐辛	mei ta zuo xin	19999
+美托酮	mei tuo tong	19999
+美维松	mei wei song	19999
+美西律	mei xi lv	19999
+迷走神经	mi zou shen jing	19999
+迷走神经背核	mi zou shen jing bei he	19999
+迷走神经后干	mi zou shen jing hou gan	19999
+迷走神经前干	mi zou shen jing qian gan	19999
+米库氯铵	mi ku lv an	19999
+米诺地尔	mi nuo di er	19999
+面部	mian bu	19999
+面侧区	mian ce qu	19999
+面侧深区	mian ce shen qu	19999
+面动脉	mian dong mai	19999
+面横动脉	mian heng dong mai	19999
+面肌	mian ji	19999
+面静脉	mian jing mai	19999
+面颅	mian lu	19999
+面神经	mian shen jing	19999
+面罩	mian zhao	19999
+明胶	ming jiao	19999
+膜式氧合器	mo shi yang he qi	19999
+末梢支阻滞	mo shao zhi zu zhi	19999
+莫雷西嗪	mo lei xi qin	19999
+纳布啡	na bu fei	19999
+纳丁啡	na ding fei	19999
+纳多洛尔	na duo luo er	19999
+纳洛酮	na luo tong	19999
+纳美芬	na mei fen	19999
+纳屈酮	na qu tong	19999
+囊式血泵	nang shi xue beng	19999
+囊式血泵	nang shi xie beng	19999
+脑电监测仪	nao dian jian ce yi	19999
+脑电监测仪器	nao dian jian ce yi qi	19999
+脑电监护仪	nao dian jian hu yi	19999
+脑电图	nao dian tu	19999
+脑干	nao gan	19999
+脑脊液	nao ji ye	19999
+脑膜中动脉	nao mo zhong dong mai	19999
+脑膜中动脉后支	nao mo zhong dong mai hou zhi	19999
+脑膜中动脉前支	nao mo zhong dong mai qian zhi	19999
+脑神经	nao shen jing	19999
+脑室	nao shi	19999
+内板	nei ban	19999
+内呼吸	nei hu xi	19999
+内环境	nei huan jing	19999
+内科学	nei ke xue	19999
+内源性儿茶酚胺	nei yuan xing er cha fen an	19999
+内脏	nei zang	19999
+内脏大神经	nei zang da shen jing	19999
+内脏小神经	nei zang xiao shen jing	19999
+内眦静脉	nei zi jing mai	19999
+尼二氢可待因	ni er qing ke dai yin	19999
+尼卡地平	ni ka di ping	19999
+尼可待因	ni ke dai yin	19999
+尼可吗啡	ni ke ma fei	19999
+尼莫地平	ni mo di ping	19999
+拟交感胺	ni jiao gan an	19999
+拟肾上腺素	ni shen shang xian su	19999
+尿生殖区	niao sheng zhi qu	19999
+尿生殖三角	niao sheng zhi san jiao	19999
+尿生殖膈	niao sheng zhi ge	19999
+聂筋膜下疏松结缔组织	nie jin mo xia shu song jie di zu zhi	19999
+镊子	nie zi	19999
+浓度效应	nong du xiao ying	19999
+浓缩效应	nong suo xiao ying	19999
+奴佛卡因	nu fo ka yin	19999
+诺美沙朵	nuo mei sha duo	19999
+诺匹哌酮	nuo pi pai tong	19999
+旁路	pang lu	19999
+旁路调节阀	pang lu tiao jie fa	19999
+喷布洛尔	pen bu luo er	19999
+喷他佐辛	pen ta zuo xin	19999
+喷雾器	pen wu qi	19999
+盆壁	pen bi	19999
+盆部	pen bu	19999
+盆丛	pen cong	19999
+盆交感干	pen jiao gan gan	19999
+盆筋膜	pen jin mo	19999
+盆筋膜间隙	pen jin mo jian xi	19999
+盆内脏神经	pen nei zang shen jing	19999
+盆腔	pen qiang	19999
+盆膈	pen ge	19999
+脾丛	pi cong	19999
+皮肤	pi fu	19999
+皮肤红外体温计	pi fu hong wai ti wen ji	19999
+皮神经	pi shen jing	19999
+皮下麻醉	pi xia ma zui	19999
+匹米诺定	pi mi nuo ding	19999
+泼尼松龙	po ni song long	19999
+莆肯野纤维	pu ken ye xian wei	19999
+普拉洛尔	pu la luo er	19999
+普鲁卡因	pu lu ka yin	19999
+普鲁卡因胺	pu lu ka yin an	19999
+普罗庚嗪	pu luo geng qin	19999
+普罗帕酮	pu luo pa tong	19999
+普萘洛尔	pu nai luo er	19999
+七氟醚	qi fu mi	19999
+七氟烷	qi fu wan	19999
+七零六代血浆	qi ling liu dai xue jiang	19999
+脐区	qi qu	19999
+脐周静脉网	qi zhou jing mai wang	19999
+气道高压报警	qi dao gao ya bao jing	19999
+气管插管	qi guan cha guan	19999
+气管插管通道	qi guan cha guan tong dao	19999
+气管导管管芯	qi guan dao guan guan xin	19999
+气管隆嵴	qi guan long ji	19999
+气管内插管术	qi guan nei cha guan shu	19999
+气管内导管	qi guan nei dao guan	19999
+气管前间隙	qi guan qian jian xi	19999
+气管切开导管	qi guan qie kai dao guan	19999
+气管杈	qi guan cha	19999
+气体监测仪	qi ti jian ce yi	19999
+气体流量计	qi ti liu liang ji	19999
+气源气压降低报警	qi yuan qi ya jiang di bao jing	19999
+前臂	qian bi	19999
+前臂内侧皮神经	qian bi nei ce pi shen jing	19999
+前臂外侧皮神经	qian bi wai ce pi shen jing	19999
+前馈	qian kui	19999
+前列地尔	qian lie di er	19999
+前列地尔	qian lie de er	19999
+前列腺	qian lie xian	19999
+前庭窝	qian ting wo	19999
+前庭窝神经	qian ting wo shen jing	19999
+前中中线	qian zhong zhong xian	19999
+前纵韧带	qian zong ren dai	19999
+前囟	qian xin	19999
+浅筋膜	qian jin mo	19999
+浅麻醉	qian ma zui	19999
+腔静脉孔	qiang jing mai kong	19999
+强安定药	qiang an ding yao	19999
+强的松龙	qiang di song long	19999
+强化麻醉	qiang hua ma zui	19999
+强痛定	qiang tong ding	19999
+强心药	qiang xin yao	19999
+强心苷	qiang xin gan	19999
+氢可酮	qing ke tong	19999
+氢吗啡醇	qing ma fei chun	19999
+氢吗啡酮	qing ma fei tong	19999
+氢溴酸东蒗菪碱	qing xiu suan dong lang dang jian	19999
+氢溴酸山莨菪碱	qing xiu suan shan lang dang jian	19999
+倾斜	qing xie	19999
+氰胍类	qing gua lei	19999
+丘脑	qiu nao	19999
+区域麻醉	qu yu ma zui	19999
+曲安奈德	qu an nai de	19999
+曲安缩松	qu an suo song	19999
+曲马多	qu ma duo	19999
+曲马朵	qu ma duo	19999
+躯干	qu gan	19999
+躯体依赖性	qu ti yi lai xing	19999
+去甲可待因	qu jia ke dai yin	19999
+去甲吗啡	qu jia ma fei	19999
+去甲美沙酮	qu jia mei sha tong	19999
+去甲左啡诺	qu jia zuo fei nuo	19999
+去炎舒松	qu yan shu song	19999
+去氧肾上腺素	qu yang shen shang xian su	19999
+去乙酰毛花苷丙	qu yi xian mao hua gan bing	19999
+颧弓	quan gong	19999
+颧淋巴结	quan lin ba jie	19999
+颧神经	quan shen jing	19999
+全氟碳化合物	quan fu tan hua he wu	19999
+全脊麻	quan ji ma	19999
+全脊髓麻醉	quan ji sui ma zui	19999
+全麻药	quan ma yao	19999
+全身麻醉	quan shen ma zui	19999
+全神麻醉药	quan shen ma zui yao	19999
+热传导血流计	re chuan dao xue liu ji	19999
+热敏电阻法	re min dian zu fa	19999
+热式流量计	re shi liu liang ji	19999
+人工气道	ren gong qi dao	19999
+人工心肺机	ren gong xin fei ji	19999
+人体解剖学	ren ti jie pou xue	19999
+容量输液泵	rong liang shu ye beng	19999
+容量通气源	rong liang tong qi yuan	19999
+乳头	ru tou	19999
+乳突	ru tu	19999
+乳突导静脉	ru tu dao jing mai	19999
+乳突尖	ru tu jian	19999
+软脊膜下隙	ruan ji mo xia xi	19999
+软脑膜	ruan nao mo	19999
+软脑膜下隙	ruan nao mo xia xi	19999
+软腭	ruan e	19999
+瑞芬太尼	rui fen tai ni	19999
+弱安定类	ruo an ding lei	19999
+腮腺	sai xian	19999
+腮腺床	sai xian chuang	19999
+腮腺管	sai xian guan	19999
+腮腺淋巴结	sai xian lin ba jie	19999
+腮腺鞘	sai xian qiao	19999
+腮腺鞘	sai xian shao	19999
+腮腺乳头	sai xian ru tou	19999
+腮腺咬肌区	sai xian yao ji qu	19999
+塞来昔布	sai lai xi bu	19999
+塞来昔布	se lai xi bu	19999
+塞利洛尔	sai li luo er	19999
+塞罗卡因	sai luo ka yin	19999
+三边孔	san bian kong	19999
+三叉神经	san cha shen jing	19999
+三叉神经节	san cha shen jing jie	19999
+三叉神经腔	san cha shen jing qiang	19999
+三叉神经阻滞	san cha shen jing zu zhi	19999
+三氟丙嗪	san fu bing qin	19999
+三氟拉嗪	san fu la qin	19999
+三甲基芬太尼	san jia ji fen tai ni	19999
+三甲基硫代芬太尼	san jia ji liu dai fen tai ni	19999
+三甲利定	san jia li ding	19999
+三甲噻芬	san jia sai fen	19999
+三角肌区	san jiao ji qu	19999
+三角肌下囊	san jiao ji xia nang	19999
+三磷腺苷	san lin xian gan	19999
+三唑仑	san zuo lun	19999
+筛状筋膜	shai zhuang jin mo	19999
+筛窦	shai dou	19999
+山莨菪碱	shan lang dang jian	19999
+上唇动脉	shang chun dong mai	19999
+上腔静脉	shang qiang jing mai	19999
+上丘脑	shang qiu nao	19999
+上矢状窦	shang shi zhuang dou	19999
+上项线	shang xiang xian	19999
+上肢	shang zhi	19999
+上肢根	shang zhi gen	19999
+上颌动脉	shang he dong mai	19999
+上颌静脉	shang he jing mai	19999
+上颌神经	shang he shen jing	19999
+上颌神经阻滞	shang he shen jing zu zhi	19999
+上颌窦	shang he dou	19999
+舌扁桃体	she bian tao ti	19999
+舌根	she gen	19999
+舌尖	she jian	19999
+舌钳子	she qian zi	19999
+舌神经	she shen jing	19999
+舌体	she ti	19999
+舌系带	she xi dai	19999
+舌下阜	she xia fu	19999
+舌下腺	she xia xian	19999
+舌下襞	she xia bi	19999
+舌咽神经	she yan shen jing	19999
+舌咽神经阻滞	she yan shen jing zu zhi	19999
+舍下神经管	she xia shen jing guan	19999
+射精管	she jing guan	19999
+射流吸引器	she liu xi yin qi	19999
+深筋膜	shen jin mo	19999
+深麻醉	shen ma zui	19999
+神经	shen jing	19999
+神经安定药	shen jing an ding yao	19999
+神经安定阵痛合剂	shen jing an ding zhen tong he ji	19999
+神经丛阻滞	shen jing cong zu zhi	19999
+神经调节	shen jing tiao jie	19999
+神经系统	shen jing xi tong	19999
+神经阻滞	shen jing zu zhi	19999
+神经阻滞麻醉	shen jing zu zhi ma zui	19999
+肾丛	shen cong	19999
+肾角	shen jiao	19999
+肾角	shen jue	19999
+肾上腺丛	shen shang xian cong	19999
+肾上腺素受体阻断药	shen shang xian su shou ti zu duan yao	19999
+渗透	shen tou	19999
+渗透浓度	shen tou nong du	19999
+渗透压	shen tou ya	19999
+声门	sheng men	19999
+声门裂	sheng men lie	19999
+声门声门裂	sheng men sheng men lie	19999
+声门下腔	sheng men xia qiang	19999
+声韧带	sheng ren dai	19999
+声襞	sheng bi	19999
+生理学	sheng li xue	19999
+生理依赖性	sheng li yi lai xing	19999
+生物节律	sheng wu jie lv	19999
+生殖股神经	sheng zhi gu shen jing	19999
+生殖股神经股支	sheng zhi gu shen jing gu zhi	19999
+生殖系统	sheng zhi xi tong	19999
+湿化器	shi hua qi	19999
+十二指肠	shi er zhi chang	19999
+十二指肠球	shi er zhi chang qiu	19999
+十二指肠乳头	shi er zhi chang ru tou	19999
+石杉碱甲	shi shan jian jia	19999
+石杉碱甲	shi sha jian jia	19999
+食管	shi guan	19999
+食管静脉丛	shi guan jing mai cong	19999
+食管裂孔	shi guan lie kong	19999
+食管套囊	shi guan tao nang	19999
+视神经	shi shen jing	19999
+收肌管	shou ji guan	19999
+手背	shou bei	19999
+手部	shou bu	19999
+手术间加温	shou shu jian jia wen	19999
+手术麻醉	shou shu ma zui	19999
+手掌	shou zhang	19999
+手指背面	shou zhi bei mian	19999
+手指掌面	shou zhi zhang mian	19999
+枢椎	shu zhui	19999
+输精管	shu jing guan	19999
+输卵管	shu luan guan	19999
+输尿管	shu niao guan	19999
+输送管道	shu song guan dao	19999
+输液泵	shu ye beng	19999
+输液器	shu ye qi	19999
+叔丁啡	shu ding fei	19999
+舒芬太尼	shu fen tai ni	19999
+术中保温毯仪	shu zhong bao wen tan yi	19999
+竖脊肌	shu ji ji	19999
+双苯吡乙啶	shuang ben bi yi ding	19999
+双苯吡乙啶	shuang ben pi yi ding	19999
+双氯芬酸钠	shuang lv fen suan na	19999
+双氯灭痛	shuang lv mie tong	19999
+双腔通气道	shuang qiang tong qi dao	19999
+双氢可待因	shuang qing ke dai yin	19999
+双氢吗啡	shuang qing ma fei	19999
+水合氯醛	shui he lv quan	19999
+水平裂	shui ping lie	19999
+顺式阿曲库铵	shun shi a qu ku an	19999
+司可巴比妥	si ke ba bi tuo	19999
+司可林	si ke lin	19999
+死腔率	si qiang lv	19999
+死腔率	si qiang shuai	19999
+四氨基吡啶	si an ji bi ding	19999
+四边孔	si bian kong	19999
+四肢	si zhi	19999
+速度通气量计	su du tong qi liang ji	19999
+髓核	sui he	19999
+索他洛尔	suo ta luo er	19999
+锁骨	suo gu	19999
+锁骨上淋巴结	suo gu shang lin ba jie	19999
+锁骨上神经	suo gu shang shen jing	19999
+锁骨上缘	suo gu shang yuan	19999
+锁骨下窝	suo gu xia wo	19999
+锁骨中点上方臂丛阻滞	suo gu zhong dian shang fang bi cong zu zhi	19999
+锁骨中线	suo gu zhong xian	19999
+胎患内障	tai huan nei zhang	19999
+糖皮质激素类药	tang pi zhi ji su lei yao	19999
+特殊检查	te shu jian cha	19999
+疼痛诊疗	teng tong zhen liao	19999
+疼痛诊疗学	teng tong zhen liao xue	19999
+体外通气机	ti wai tong qi ji	19999
+体温监测	ti wen jian ce	19999
+体循环	ti xun huan	19999
+体液调节	ti ye tiao jie	19999
+替利定	ti li ding	19999
+天行赤目	tian xing chi mu	19999
+听诊三角	ting zhen san jiao	19999
+通睛	tong jing	19999
+通气道	tong qi dao	19999
+通气喉罩	tong qi hou zhao	19999
+通气机	tong qi ji	19999
+通气机气道内压	tong qi ji qi dao nei ya	19999
+通气频率	tong qi pin lv	19999
+通气源	tong qi yuan	19999
+酮洛酸	tong luo suan	19999
+瞳神干缺	tong shen gan que	19999
+瞳神缩小	tong shen suo xiao	19999
+同步间歇指令通气	tong bu jian xie zhi ling tong qi	19999
+筒箭毒碱类	tong jian du jian lei	19999
+筒体	tong ti	19999
+头部	tou bu	19999
+头静脉	tou jing mai	19999
+头颅	tou lu	19999
+推拉试验	tui la shi yan	19999
+臀大肌	tun da ji	19999
+臀内侧皮神经	tun nei ce pi shen jing	19999
+臀上动脉	tun shang dong mai	19999
+臀上静脉	tun shang jing mai	19999
+臀上皮神经	tun shang pi shen jing	19999
+臀上神经	tun shang shen jing	19999
+臀下动脉	tun xia dong mai	19999
+臀下静脉	tun xia jing mai	19999
+臀下皮神经	tun xia pi shen jing	19999
+臀下神经	tun xia shen jing	19999
+脱氟醚	tuo fu mi	19999
+妥卡胺	tuo ka an	19999
+哇巴因	wa ba yin	19999
+外板	wai ban	19999
+外鼻	wai bi	19999
+外侧孔	wai ce kong	19999
+外呼吸	wai hu xi	19999
+外科学	wai ke xue	19999
+外障	wai zhang	19999
+万可松	wan ke song	19999
+万汶	wan wen	19999
+腕管	wan guan	19999
+网膜囊	wang mo nang	19999
+微量注射泵	wei liang zhu she beng	19999
+微小流量泵	wei xiao liu liang beng	19999
+危重病监测与治疗	wei zhong bing jian ce yu zhi liao	19999
+危重病学	wei zhong bing xue	19999
+围手术期	wei shou shu qi	19999
+围术期	wei shu qi	19999
+维库溴铵	wei ku xiu an	19999
+维拉帕米	wei la pa mi	19999
+尾骨	wei gu	19999
+尾骨尖	wei gu jian	19999
+尾神经	wei shen jing	19999
+胃脏	wei zang	19999
+胃窦前神经	wei dou qian shen jing	19999
+温度传感器	wen du chuan gan qi	19999
+稳态	wen tai	19999
+涡轮叶片杯	wo lun ye pian bei	19999
+乌拉地尔	wu la di er	19999
+乌拉地尔	wu la de er	19999
+乌拉地尔酚妥拉明	wu la di er fen tuo la ming	19999
+乌拉地尔酚妥拉明	wu la de er fen tuo la ming	19999
+无创性心输出量测定	wu chuang xing xin shu chu liang ce ding	19999
+无创血压监测	wu chuang xue ya jian ce	19999
+无效腔气	wu xiao qiang qi	19999
+无效渗透分子	wu xiao shen tou fen zi	19999
+五风内障	wu feng nei zhang	19999
+五轮	wu lun	19999
+戊巴比妥	wu ba bi tuo	19999
+西地兰	xi di lan	19999
+吸气管道	xi qi guan dao	19999
+吸气活瓣	xi qi huo ban	19999
+吸气末屏气	xi qi mo bing qi	19999
+吸入麻醉	xi ru ma zui	19999
+吸入麻醉药	xi ru ma zui yao	19999
+吸入麻醉药浓度	xi ru ma zui yao nong du	19999
+吸收器	xi shou qi	19999
+吸痰管	xi tan guan	19999
+吸痰器	xi tan qi	19999
+吸引	xi yin	19999
+吸引器	xi yin qi	19999
+吸引设备	xi yin she bei	19999
+稀释气	xi shi qi	19999
+膝部	xi bu	19999
+烯丙罗定	xi bing luo ding	19999
+系膜	xi mo	19999
+下唇动脉	xia chun dong mai	19999
+下腹下丛	xia fu xia cong	19999
+下腔静脉	xia qiang jing mai	19999
+下丘脑	xia qiu nao	19999
+下矢状窦	xia shi zhuang dou	19999
+下牙槽神经	xia ya cao shen jing	19999
+下牙槽神经阻滞	xia ya cao shen jing zu zhi	19999
+下肢	xia zhi	19999
+下颌骨下缘	xia he gu xia yuan	19999
+下颌后静脉	xia he hou jing mai	19999
+下颌后窝	xia he hou wo	19999
+下颌角	xia he jiao	19999
+下颌神经	xia he shen jing	19999
+下颌神经主干阻滞	xia he shen jing zhu gan zu zhi	19999
+纤维环	xian wei huan	19999
+纤维索	xian wei suo	19999
+纤维心包	xian wei xin bao	19999
+纤维支气管镜	xian wei zhi qi guan jing	19999
+项部	xiang bu	19999
+项区	xiang qu	19999
+项韧带	xiang ren dai	19999
+硝苯地平	xiao ben di ping	19999
+硝普钠	xiao pu na	19999
+硝酸甘油	xiao suan gan you	19999
+硝西泮	xiao xi pan	19999
+消化系统	xiao hua xi tong	19999
+消旋啡烷	xiao xuan fei wan	19999
+消旋甲啡烷	xiao xuan jia fei wan	19999
+消旋吗拉胺	xiao xuan ma la an	19999
+消炎痛	xiao yan tong	19999
+消音键	xiao yin jian	19999
+小肠	xiao chang	19999
+小腹膜腔	xiao fu mo qiang	19999
+小角软骨	xiao jiao ruan gu	19999
+小脑	xiao nao	19999
+小脑镰	xiao nao lian	19999
+小脑幕	xiao nao mu	19999
+小脑幕切迹	xiao nao mu qie ji	19999
+小脑幕切迹疝	xiao nao mu qie ji shan	19999
+小脑上动脉	xiao nao shang dong mai	19999
+小脑下后动脉	xiao nao xia hou dong mai	19999
+小脑下前动脉	xiao nao xia qian dong mai	19999
+小脑延髓池	xiao nao yan sui chi	19999
+小腿	xiao tui	19999
+小网膜	xiao wang mo	19999
+楔状软骨	xie zhuang ruan gu	19999
+斜角肌间沟臂丛阻滞	xie jiao ji jian gou bi cong zu zhi	19999
+斜裂	xie lie	19999
+蟹睛	xie jing	19999
+新福林	xin fu lin	19999
+新斯的明	xin si di ming	19999
+心包	xin bao	19999
+心包腔	xin bao qiang	19999
+心包区	xin bao qu	19999
+心电监测仪器	xin dian jian ce yi qi	19999
+心电图	xin dian tu	19999
+心肺复苏	xin fei fu su	19999
+心理依赖性	xin li yi lai xing	19999
+心生儿导管	xin sheng er dao guan	19999
+心输出量	xin shu chu liang	19999
+心输出量监测仪器	xin shu chu liang jian ce yi qi	19999
+心脏反应	xin zang fan ying	19999
+心瘾	xin yin	19999
+兴奋性	xing fen xing	19999
+胸背区	xiong bei qu	19999
+胸背神经	xiong bei shen jing	19999
+胸壁	xiong bi	19999
+胸部	xiong bu	19999
+胸大肌	xiong da ji	19999
+胸导管	xiong dao guan	19999
+胸腹壁静脉	xiong fu bi jing mai	19999
+胸骨角	xiong gu jiao	19999
+胸骨角	xiong gu jue	19999
+胸骨旁淋巴结	xiong gu pang lin ba jie	19999
+胸骨旁线	xiong gu pang xian	19999
+胸骨线	xiong gu xian	19999
+胸肌淋巴结	xiong ji lin ba jie	19999
+胸交感干	xiong jiao gan gan	19999
+胸廓内动脉	xiong kuo nei dong mai	19999
+胸廓内静脉	xiong kuo nei jing mai	19999
+胸肋三角	xiong lei san jiao	19999
+胸肋三角	xiong le san jiao	19999
+胸膜	xiong mo	19999
+胸膜腔	xiong mo qiang	19999
+胸膜隐窝	xiong mo yin wo	19999
+胸腔	xiong qiang	19999
+胸神经后支	xiong shen jing hou zhi	19999
+胸神经前皮支	xiong shen jing qian pi zhi	19999
+胸神经外侧皮支	xiong shen jing wai ce pi zhi	19999
+胸锁关节	xiong suo guan jie	19999
+胸锁乳突肌	xiong suo ru tu ji	19999
+胸腺区	xiong xian qu	19999
+胸主动脉	xiong zhu dong mai	19999
+胸椎	xiong zhui	19999
+休克治疗室	xiu ke zhi liao shi	19999
+嗅神经	xiu shen jing	19999
+旋螺突起	xuan luo tu qi	19999
+旋髂深动脉	xuan qia shen dong mai	19999
+血安定	xue an ding	19999
+血安定	xie an ding	19999
+血泵	xue beng	19999
+血泵	xie beng	19999
+血管钳	xue guan qian	19999
+血管钳	xie guan qian	19999
+血管神经门	xue guan shen jing men	19999
+血管神经鞘	xue guan shen jing qiao	19999
+血灌瞳神	xue guan tong shen	19999
+血灌瞳神	xie guan tong shen	19999
+血浆容量扩充药	xue jiang rong liang kuo chong yao	19999
+血流量监测仪器	xue liu liang jian ce yi qi	19999
+血气分配系数	xue qi fen pei xi shu	19999
+血气分析仪	xue qi fen xi yi	19999
+血压监测仪器	xue ya jian ce yi qi	19999
+血氧饱和度	xue yang bao he du	19999
+血氧饱和度传感器	xue yang bao he du chuan gan qi	19999
+血氧饱和度监测仪	xue yang bao he du jian ce yi	19999
+血氧分压	xue yang fen ya	19999
+血氧分压	xie yang fen ya	19999
+血液性缺氧	xue ye xing que yang	19999
+循环灌注	xun huan guan zhu	19999
+循环紧闭式麻醉机	xun huan jin bi shi ma zui ji	19999
+循环系统监测仪	xun huan xi tong jian ce yi	19999
+循环系统监测仪器	xun huan xi tong jian ce yi qi	19999
+循环性缺氧	xun huan xing que yang	19999
+压力表	ya li biao	19999
+压力传感器	ya li chuan gan qi	19999
+压力代偿型流量计	ya li dai chang xing liu liang ji	19999
+压力调节器	ya li tiao jie qi	19999
+压力通气源	ya li tong qi yuan	19999
+压力限定通气	ya li xian ding tong qi	19999
+压力效应	ya li xiao ying	19999
+压力支持通气	ya li zhi chi tong qi	19999
+压力指示器	ya li zhi shi qi	19999
+压舌板	ya she ban	19999
+压缩空气热交换毯	ya suo kong qi re jiao huan tan	19999
+鸦爪支	ya zhua zhi	19999
+芽子碱	ya zi jian	19999
+牙齿	ya chi	19999
+牙垫	ya dian	19999
+亚甲蓝	ya jia lan	19999
+亚硝基铁氰化钠	ya xiao ji tie qing hua na	19999
+咽喉镜	yan hou jing	19999
+咽后间隙	yan hou jian xi	19999
+咽后间隙	ye hou jian xi	19999
+咽峡	yan xia	19999
+咽峡	ye xia	19999
+咽轴线	yan zhou xian	19999
+咽轴线	ye zhou xian	19999
+烟碱	yan jian	19999
+盐酸丙胺卡因	yan suan bing an ka yin	19999
+盐酸布比卡因	yan suan bu bi ka yin	19999
+盐酸丁卡因	yan suan ding ka yin	19999
+盐酸多巴胺	yan suan duo ba an	19999
+盐酸多巴酚丁胺	yan suan duo ba fen ding an	19999
+盐酸二氢埃托啡	yan suan er qing ai tuo fei	19999
+盐酸酚苄明	yan suan fen bian ming	19999
+盐酸假氧明	yan suan jia yang ming	19999
+盐酸可乐定	yan suan ke le ding	19999
+盐酸拉贝洛尔	yan suan la bei luo er	19999
+盐酸利多卡因	yan suan li duo ka yin	19999
+盐酸氯胺酮	yan suan lv an tong	19999
+盐酸氯丙嗪	yan suan lv bing qin	19999
+盐酸氯普鲁卡因	yan suan lv pu lu ka yin	19999
+盐酸罗哌卡因	yan suan luo pai ka yin	19999
+盐酸麻黄碱	yan suan ma huang jian	19999
+盐酸吗啡	yan suan ma fei	19999
+盐酸美加明	yan suan mei jia ming	19999
+盐酸普鲁卡因	yan suan pu lu ka yin	19999
+盐酸普萘洛尔	yan suan pu nai luo er	19999
+盐酸曲马朵	yan suan qu ma duo	19999
+盐酸去氧肾上腺素	yan suan qu yang shen shang xian su	19999
+盐酸肾上腺素	yan suan shen shang xian su	19999
+盐酸毋乙奎醚	yan suan wu yi kui mi	19999
+盐酸辛可卡因	yan suan xin ke ka yin	19999
+盐酸异丙嗪	yan suan yi bing qin	19999
+盐酸哌替啶	yan suan pai ti ding	19999
+盐酸羟考酮控释片	yan suan qiang kao tong kong shi pian	19999
+眼胞菌毒	yan bao jun du	19999
+眼动脉	yan dong mai	19999
+眼静脉	yan jing mai	19999
+眼上静脉	yan shang jing mai	19999
+眼神经	yan shen jing	19999
+眼下静脉	yan xia jing mai	19999
+洋地黄	yang di huang	19999
+洋地黄毒苷	yang di huang du gan	19999
+氧供	yang gong	19999
+氧含量	yang han liang	19999
+氧耗	yang hao	19999
+氧合器	yang he qi	19999
+氧合指数	yang he zhi shu	19999
+氧化亚氮	yang hua ya dan	19999
+氧浓度监视仪	yang nong du jian shi yi	19999
+氧摄取率	yang she qu lv	19999
+氧烯洛尔	yang xi luo er	19999
+氧硝西泮	yang xiao xi pan	19999
+氧源	yang yuan	19999
+氧阻断安全装置	yang zu duan an quan zhuang zhi	19999
+仰卧位低血压综合症	yang wo wei di xue ya zong he zheng	19999
+腰丛	yao cong	19999
+腰大肌间隙	yao da ji jian xi	19999
+腰交感干	yao jiao gan gan	19999
+腰肋三角	yao lei san jiao	19999
+腰肋三角	yao le san jiao	19999
+腰麻	yao ma	19999
+腰区	yao qu	19999
+腰上三角	yao shang san jiao	19999
+腰神经	yao shen jing	19999
+腰下三角	yao xia san jiao	19999
+腰硬联合	yao ying lian he	19999
+腰椎	yao zhui	19999
+腰骶干	yao di gan	19999
+腰骶膨大	yao di peng da	19999
+摇摆装置	yao bai zhuang zhi	19999
+咬肌	yao ji	19999
+咬肌间隙	yao ji jian xi	19999
+咬肌筋膜	yao ji jin mo	19999
+药理学	yao li xue	19999
+药物戒断和依赖的防治	yao wu jie duan he yi lai de fang zhi	19999
+药物滥用	yao wu lan yong	19999
+药液罐	yao ye guan	19999
+腋动脉	ye dong mai	19999
+腋后线	ye hou xian	19999
+腋静脉	ye jing mai	19999
+腋路臂丛阻滞	ye lu bi cong zu zhi	19999
+腋前线	ye qian xian	19999
+腋区	ye qu	19999
+腋中线	ye zhong xian	19999
+液体膨胀法	ye ti peng zhang fa	19999
+一苯乙基四苯基四哌啶乙酸酯	yi ben yi ji si ben ji si pai ding yi suan zhi	19999
+一次性面罩	yi ci xing mian zhao	19999
+一次性镇痛泵	yi ci xing zhen tong beng	19999
+一甲基四苯基四哌啶丙酸酯	yi jia ji si ben ji si pai ding bing suan zhi	19999
+一四苯骈二氮卓衍生物	yi si ben pian er dan zhuo yan sheng wu	19999
+一氧化氮	yi yang hua dan	19999
+一针技术	yi zhen ji shu	19999
+医疗病房	yi liao bing fang	19999
+依酚氯铵注射剂	yi fen lv an zhu she ji	19999
+依替卡因	yi ti ka yin	19999
+依托利定	yi tuo li ding	19999
+依托尼秦	yi tuo ni qin	19999
+依托咪酯	yi tuo mi zhi	19999
+胰丛	yi cong	19999
+乙基吗啡	yi ji ma fei	19999
+乙甲噻丁	yi jia sai ding	19999
+乙醚	yi mi	19999
+乙醚调节开关	yi mi tiao jie kai guan	19999
+乙醚麻醉	yi mi ma zui	19999
+乙酰阿法甲基芬太尼	yi xian a fa jia ji fen tai ni	19999
+乙酰丙嗪	yi xian bing qin	19999
+乙酰水杨酸	yi xian shui yang suan	19999
+抑制迷走神经反射	yi zhi mi zou shen jing fan she	19999
+抑制作用	yi zhi zuo yong	19999
+易出血区	yi chu xie qu	19999
+易化扩散	yi hua kuo san	19999
+逸气活瓣	yi qi huo ban	19999
+异丙酚	yi bing fen	19999
+异丙肾上腺素	yi bing shen shang xian su	19999
+异丙吡胺	yi bing bi an	19999
+异丙吡胺	yi bing pi an	19999
+异丙嗪	yi bing qin	19999
+异丁苯丙酸	yi ding ben bing suan	19999
+异氟醚	yi fu mi	19999
+异氟烷	yi fu wan	19999
+异美沙酮	yi mei sha tong	19999
+异戊巴比妥	yi wu ba bi tuo	19999
+异型气管导管	yi xing qi guan dao guan	19999
+翼丛	yi cong	19999
+翼点	yi dian	19999
+翼下颌间隙	yi xia he jian xi	19999
+翼状韧带	yi zhuang ren dai	19999
+阴部神经	yin bu shen jing	19999
+阴道	yin dao	19999
+阴蒂背神经	yin di bei shen jing	19999
+阴茎背神经	yin jing bei shen jing	19999
+隐神经	yin shen jing	19999
+隐神经阻滞定位	yin shen jing zu zhi ding wei	19999
+硬脊膜囊	ying ji mo nang	19999
+硬膜外麻醉	ying mo wai ma zui	19999
+硬膜外腔阻滞	ying mo wai qiang zu zhi	19999
+硬膜外隙	ying mo wai xi	19999
+硬膜外隙段	ying mo wai xi duan	19999
+硬脑膜	ying nao mo	19999
+硬腭	ying e	19999
+由高压氧气	you gao ya yang qi	19999
+有创血压测量	you chuang xue ya ce liang	19999
+有效渗透分子	you xiao shen tou fen zi	19999
+右丙氧芬	you bing yang fen	19999
+右房室瓣	you fang shi ban	19999
+右腹股沟区	you fu gu gou qu	19999
+右喉返神经	you hou fan shen jing	19999
+右季肋区	you ji lei qu	19999
+右吗拉胺	you ma la an	19999
+右迷走神经	you mi zou shen jing	19999
+右外侧区	you wai ce qu	19999
+右旋糖酐	you xuan tang gan	19999
+右旋筒箭毒碱	you xuan tong jian du jian	19999
+诱导麻醉	you dao ma zui	19999
+预激综合综	yu ji zong he zong	19999
+载气	zai qi	19999
+在接受刺激后迅速产生特殊生物电反应的组织称为可兴奋组织	zai jie shou ci ji hou xun su chan sheng te shu sheng wu dian fan ying de zu zhi cheng wei ke xing fen zu zhi	19999
+脏腹膜	zang fu mo	19999
+脏胸膜	zang xiong mo	19999
+增量效应	zeng liang xiao ying	19999
+扎来普隆	zha lai pu long	19999
+扎来普隆	za lai pu long	19999
+展神经	zhan shen jing	19999
+樟磺咪芬	zhang huang mi fen	19999
+掌侧固有神经	zhang ce gu you shen jing	19999
+掌浅弓	zhang qian gong	19999
+掌深弓	zhang shen gong	19999
+掌中隔	zhang zhong ge	19999
+掌中间隙	zhang zhong jian xi	19999
+折叠式风箱及吸呼气单向活瓣	zhe die shi feng xiang ji xi hu qi dan xiang huo ban	19999
+针刺麻醉	zhen ci ma zui	19999
+针形阀	zhen xing fa	19999
+枕板障静脉	zhen ban zhang jing mai	19999
+枕大神经	zhen da shen jing	19999
+枕大神经阻滞	zhen da shen jing zu zhi	19999
+枕导静脉	zhen dao jing mai	19999
+枕动脉	zhen dong mai	19999
+枕额肌	zhen e ji	19999
+枕骨大孔	zhen gu da kong	19999
+枕骨外膜	zhen gu wai mo	19999
+枕静脉	zhen jing mai	19999
+枕外隆凸	zhen wai long tu	19999
+枕下三角	zhen xia san jiao	19999
+枕小神经	zhen xiao shen jing	19999
+枕叶	zhen ye	19999
+镇静	zhen jing	19999
+镇静药	zhen jing yao	19999
+镇痛	zhen tong	19999
+镇痛药	zhen tong yao	19999
+蒸发器	zheng fa qi	19999
+蒸发室	zheng fa shi	19999
+正反馈	zheng fan kui	19999
+正路调节阀	zheng lu tiao jie fa	19999
+正性肌力药	zheng xing ji li yao	19999
+正压泄漏试验	zheng ya xie lou shi yan	19999
+正中孔	zheng zhong kong	19999
+正中神经	zheng zhong shen jing	19999
+正中神经返支	zheng zhong shen jing fan zhi	19999
+正中神经阻滞	zheng zhong shen jing zu zhi	19999
+支持带	zhi chi dai	19999
+支气管插管	zhi qi guan cha guan	19999
+支气管导管	zhi qi guan dao guan	19999
+支气管动脉	zhi qi guan dong mai	19999
+支气管堵塞导管	zhi qi guan du se dao guan	19999
+支气管静脉	zhi qi guan jing mai	19999
+支气管镜	zhi qi guan jing	19999
+支气管内导管	zhi qi guan nei dao guan	19999
+支气管树	zhi qi guan shu	19999
+直肠	zhi chang	19999
+直肠膀胱陷凹	zhi chang pang guang xian ao	19999
+直肠静脉丛	zhi chang jing mai cong	19999
+直肠下神经	zhi chang xia shen jing	19999
+直肠子宫陷凹	zhi chang zi gong xian ao	19999
+直流式麻醉机	zhi liu shi ma zui ji	19999
+直窦	zhi dou	19999
+指背静脉	zhi bei jing mai	19999
+指背神经	zhi bei shen jing	19999
+指背神经阻滞	zhi bei shen jing zu zhi	19999
+指髓	zhi sui	19999
+指髓间隙	zhi sui jian xi	19999
+指压式血泵	zhi ya shi xue beng	19999
+指压式血泵	zhi ya shi xie beng	19999
+指掌侧总神经	zhi zhang ce zong shen jing	19999
+止回阀	zhi hui fa	19999
+治疗干预评分系统	zhi liao gan yu ping fen xi tong	19999
+中分子右旋糖苷	zhong fen zi you xuan tang gan	19999
+中脑导水管	zhong nao dao shui guan	19999
+中枢神经	zhong shu shen jing	19999
+中枢神经系统	zhong shu shen jing xi tong	19999
+中枢性镇痛药	zhong shu xing zhen tong yao	19999
+中心供气系统	zhong xin gong qi xi tong	19999
+中心温度	zhong xin wen du	19999
+中心腱	zhong xin jian	19999
+中压系统	zhong ya xi tong	19999
+中央管	zhong yang guan	19999
+中药麻醉	zhong yao ma zui	19999
+终池	zhong chi	19999
+终丝	zhong si	19999
+重酒石酸间羟胺	zhong jiu shi suan jian qiang an	19999
+重酒石酸间羟胺	chong jiu shi suan jian qiang an	19999
+重酒石酸去甲肾上腺素	zhong jiu shi suan qu jia shen shang xian su	19999
+重酒石酸去甲肾上腺素	chong jiu shi suan qu jia shen shang xian su	19999
+重症监护	zhong zheng jian hu	19999
+周围神经	zhou wei shen jing	19999
+肘部	zhou bu	19999
+肘后三角	zhou hou san jiao	19999
+肘窝	zhou wo	19999
+肘正中静脉	zhou zheng zhong jing mai	19999
+蛛网膜	zhu wang mo	19999
+蛛网膜粒	zhu wang mo li	19999
+蛛网膜绒毛	zhu wang mo rong mao	19999
+蛛网膜下麻醉	zhu wang mo xia ma zui	19999
+蛛网膜下腔	zhu wang mo xia qiang	19999
+蛛网膜下腔阻滞	zhu wang mo xia qiang zu zhi	19999
+蛛网膜下隙	zhu wang mo xia xi	19999
+蛛网膜下隙段	zhu wang mo xia xi duan	19999
+主动脉瓣	zhu dong mai ban	19999
+主动脉裂孔	zhu dong mai lie kong	19999
+注射泵	zhu she beng	19999
+注射麻醉	zhu she ma zui	19999
+转蝶式氧合器	zhuan die shi yang he qi	19999
+转子流量计	zhuan zi liu liang ji	19999
+椎动脉	zhui dong mai	19999
+椎动脉三角	zhui dong mai san jiao	19999
+椎管	zhui guan	19999
+椎管内麻醉	zhui guan nei ma zui	19999
+椎间盘	zhui jian pan	19999
+椎静脉	zhui jing mai	19999
+椎静脉丛	zhui jing mai cong	19999
+椎内静脉丛	zhui nei jing mai cong	19999
+椎前间隙	zhui qian jian xi	19999
+椎外静脉丛	zhui wai jing mai cong	19999
+子宫	zi gong	19999
+自体血液回收机	zi ti xue ye hui shou ji	19999
+自由上肢	zi you shang zhi	19999
+自主呼吸	zi zhu hu xi	19999
+总碱	zong jian	19999
+纵膈	zong ge	19999
+足背动脉	zu bei dong mai	19999
+足背静脉弓	zu bei jing mai gong	19999
+足部	zu bu	19999
+足底内侧神经	zu di nei ce shen jing	19999
+足底外侧神经	zu di wai ce shen jing	19999
+组织呼吸	zu zhi hu xi	19999
+组织性缺氧	zu zhi xing que yang	19999
+组织血分配系数	zu zhi xue fen pei xi shu	19999
+组织血分配系数	zu zhi xie fen pei xi shu	19999
+左房室瓣	zuo fang shi ban	19999
+左啡诺	zuo fei nuo	19999
+左芬啡烷	zuo fen fei wan	19999
+左腹股沟区	zuo fu gu gou qu	19999
+左季肋区	zuo ji lei qu	19999
+左吗拉胺	zuo ma la an	19999
+左美沙芬	zuo mei sha fen	19999
+左肾丛	zuo shen cong	19999
+左肾上腺丛	zuo shen shang xian cong	19999
+左旋布比卡因	zuo xuan bu bi ka yin	19999
+左旋四氢帕马丁	zuo xuan si qing pa ma ding	19999
+左膈丛	zuo ge cong	19999
+佐匹克隆	zuo pi ke long	19999
+坐骨结节	zuo gu jie jie	19999
+坐骨神经	zuo gu shen jing	19999
+坐骨直肠窝	zuo gu zhi chang wo	19999
+坐股神经	zuo gu shen jing	19999
+苄吗啡	bian ma fei	19999
+苄替啶	bian ti ding	19999
+呋替啶	fu ti ding	19999
+吡罗昔康	bi luo xi kang	19999
+吡罗昔康	pi luo xi kang	19999
+吡那地尔	bi na di er	19999
+吡那地尔	pi na di er	19999
+吡啶类	bi ding lei	19999
+吲哚洛尔	yin duo luo er	19999
+吲哚美辛	yin duo mei xin	19999
+哌库溴铵	pai ku xiu an	19999
+哌仑西平	pai lun xi ping	19999
+哌替啶	pai ti ding	19999
+哌替啶中间体	pai ti ding zhong jian ti	19999
+哌唑嗪	pai zuo qin	19999
+哌啶	pai ding	19999
+哌腈米特	pai jing mi te	19999
+咪达唑仑	mi da zuo lun	19999
+咪唑安定	mi zuo an ding	19999
+唛啶	mai ding	19999
+唛啶	ma ding	19999
+唑吡坦	zuo bi tan	19999
+唑吡坦	zuo pi tan	19999
+喙突下臂丛阻滞	hui tu xia bi cong zu zhi	19999
+嘌呤类衍生物	piao ling lei yan sheng wu	19999
+噻吗洛尔	sai ma luo er	19999
+泮库溴铵	pan ku xiu an	19999
+溴苄胺	xiu bian an	19999
+寰枕关节	huan zhen guan jie	19999
+寰椎	huan zhui	19999
+甾体静脉麻醉药	zai ti jing mai ma zui yao	19999
+琥珀胆碱	hu po dan jian	19999
+杓状软骨	biao zhuang ruan gu	19999
+枸橼酸芬太尼	ju yuan suan fen tai ni	19999
+桡动脉	rao dong mai	19999
+桡神经管	rao shen jing guan	19999
+桡神经管	nao shen jing guan	19999
+桡神经浅支	rao shen jing qian zhi	19999
+桡神经浅支	nao shen jing qian zhi	19999
+桡神经浅支阻滞	rao shen jing qian zhi zu zhi	19999
+桡神经浅支阻滞	nao shen jing qian zhi zu zhi	19999
+桡神经深支阻滞	rao shen jing shen zhi zu zhi	19999
+桡神经深支阻滞	nao shen jing shen zhi zu zhi	19999
+桡神经肘部阻滞	rao shen jing zhou bu zu zhi	19999
+桡神经肘部阻滞	nao shen jing zhou bu zu zhi	19999
+桡神经阻滞	rao shen jing zu zhi	19999
+桡神经阻滞	nao shen jing zu zhi	19999
+桡神经肱部阻滞	rao shen jing gong bu zu zhi	19999
+桡神经肱部阻滞	nao shen jing gong bu zu zhi	19999
+氙气麻醉	xian qi ma zui	19999
+肱动脉	gong dong mai	19999
+肱骨肌管	gong gu ji guan	19999
+胫神经	jing shen jing	19999
+胼睇体	pian di ti	19999
+腓肠内侧皮神经	fei chang nei ce pi shen jing	19999
+腓肠神经	fei chang shen jing	19999
+腓肠外侧皮神经	fei chang wai ce pi shen jing	19999
+腓浅神经	fei qian shen jing	19999
+腓深神经	fei shen shen jing	19999
+腓总神经	fei zong shen jing	19999
+腱帽	jian mao	19999
+腱膜下间隙	jian mo xia jian xi	19999
+腱膜下疏松结缔组织	jian mo xia shu song jie di zu zhi	19999
+腱纽	jian niu	19999
+腱系膜	jian xi mo	19999
+腱质	jian zhi	19999
+腭扁桃体	e bian tao ti	19999
+腭垂	e chui	19999
+腭舌弓	e she gong	19999
+腭舍弓	e she gong	19999
+腭咽弓	e yan gong	19999
+膈丛	ge cong	19999
+膈肌	ge ji	19999
+膈上淋巴结	ge shang lin ba jie	19999
+膈神经	ge shen jing	19999
+膈下淋巴结	ge xia lin ba jie	19999
+窦房结	dou fang jie	19999
+颌上淋巴结	he shang lin ba jie	19999
+颏孔	ke kong	19999
+颏神经	ke shen jing	19999
+颏神经阻滞	ke shen jing zu zhi	19999
+颞后板障静脉	nie hou ban zhang jing mai	19999
+颞肌	nie ji	19999
+颞筋膜间隙	nie jin mo jian xi	19999
+颞前板障静脉	nie qian ban zhang jing mai	19999
+颞前动脉	nie qian dong mai	19999
+颞浅动脉	nie qian dong mai	19999
+颞浅间隙	nie qian jian xi	19999
+颞浅筋膜	nie qian jin mo	19999
+颞浅静脉	nie qian jing mai	19999
+颞区	nie qu	19999
+颞深间隙	nie shen jian xi	19999
+颞深筋膜	nie shen jin mo	19999
+颞下间隙	nie xia jian xi	19999
+颞叶	nie ye	19999
+罂粟	ying su	19999
+罂粟秆浓缩物	ying su gan nong suo wu	19999
+罂粟壳	ying su ke	19999
+羟蒂巴酚	qiang di ba fen	19999
+羟丁酸钠	qiang ding suan na	19999
+羟考酮	qiang kao tong	19999
+羟吗啡酮	qiang ma fei tong	19999
+羟乙基淀粉	qiang yi ji dian fen	19999
+羟哌替啶	qiang pai ti ding	19999
+羟酯	qiang zhi	19999
+踝部	huai bu	19999
+骶丛	di cong	19999
+骶骨区	di gu qu	19999
+骶管裂孔	di guan lie kong	19999
+骶棘肌	di ji ji	19999
+骶角	di jiao	19999
+骶角	di jue	19999
+骶神经	di shen jing	19999
+髁导静脉	ke dao jing mai	19999
+髁突	ke tu	19999
+髂腹股沟神经	qia fu gu gou shen jing	19999
+髂腹下神经	qia fu xia shen jing	19999
+髂后上棘	qia hou shang ji	19999
+髂后下棘	qia hou xia ji	19999
+髂结节	qia jie jie	19999
+髂内动脉	qia nei dong mai	19999
+髂内静脉	qia nei jing mai	19999
+髂前上棘	qia qian shang ji	19999
+髂前下棘	qia qian xia ji	19999
+髂外侧嵴	qia wai ce ji	19999
+髂外动脉	qia wai dong mai	19999
+髂外静脉	qia wai jing mai	19999
+髂正中棘	qia zheng zhong ji	19999
+髂总动脉	qia zong dong mai	19999
+髂总静脉	qia zong jing mai	19999
+髂嵴	qia ji	19999

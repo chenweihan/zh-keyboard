@@ -79,6 +79,7 @@ const DEFAULT_SOURCE_FILES = [
   'default.yaml',
   'luna_pinyin.schema.yaml',
   'luna_pinyin.dict.yaml',
+  'custom_pinyin.dict.yaml',
   'symbols.yaml',
   'essay.txt',
 ] as const
